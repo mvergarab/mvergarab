@@ -8,7 +8,23 @@ I am a passionate, ambitious, curious and driven Software Engineer for Latin Ame
 * Passionate about start-ups, music and art 🎹
 
 Languages and Tools:
-bootstrap css3 figma stimulus heroku html5 javascript mysql postgresql postman rails ruby
+- Python (Django / Flask)
+- Javascript (Node js / React)
+- Ruby (Rails)
+- Heroku
+- MySQl
+- Postgresql
+- Css 
+- Html
+- Docker
+
+Concepts i feel comfortable with:
+- CD / CI
+- TDD
+- Fullstack web development 
+- Containerization
+- Data structures and Algorithm
+
 
 
 <!--
