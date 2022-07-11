@@ -1,8 +1,5 @@
 ### Hola! 👋
 
-<!--
-**mvergarab/mvergarab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Manu, I am a passionate, ambitious, curious and driven Software Engineer for Latin America. Bringing back the huge engineering legacy that the Maya, Aztecs and Incas left us in our continent 🌱
 
 * I’m currently looking for a job 📒
@@ -12,3 +9,8 @@ My name is Manu, I am a passionate, ambitious, curious and driven Software Engin
 
 Languages and Tools:
 bootstrap css3 figma stimulus heroku html5 javascript mysql postgresql postman rails ruby
+
+
+<!--
+**mvergarab/mvergarab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
