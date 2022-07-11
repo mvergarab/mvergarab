@@ -23,7 +23,7 @@ Concepts i feel comfortable with:
 - TDD
 - Fullstack web development 
 - Containerization
-- Data structures and Algorithm
+- Data structures and Algorithms
 
 
 
