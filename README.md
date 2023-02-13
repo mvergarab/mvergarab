@@ -8,7 +8,6 @@ I am a passionate, ambitious, curious and driven Software Engineer from Latin Am
 * Passionate about start-ups, music and art 🎹
 
 Languages and Tools:
-- Python (Django / Flask)
 - Javascript (Node js / React)
 - Ruby (Rails)
 - Heroku
